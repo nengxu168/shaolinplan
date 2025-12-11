@@ -1,0 +1,42 @@
+# 操作系统文件
+.DS_Store
+Thumbs.db
+*.swp
+*.swo
+*~
+
+# 编辑器文件
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# 临时文件
+*.tmp
+*.log
+*.cache
+
+# 个人笔记和草稿
+*_draft.md
+*_notes.md
+*_private.md
+
+# 敏感信息
+*_secret.md
+*_confidential.md
+.env
+*.key
+*.pem
+
+# 大型文件
+*.pdf
+*.docx
+*.xlsx
+*.pptx
+*.zip
+*.tar.gz
+
+# 备份文件
+*.bak
+*_backup.*
+
